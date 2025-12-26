@@ -39,17 +39,17 @@ notebook(dir=".")
 ### TODO remove old youtube links
 
 <table>
-<tr><td><b>Day 1 (Tuesday, Jan 20, 2026)</b></td><td>11am-12:30pm</td><td>Your first steps with Julia</td><td></td></tr>
-<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Working with tabular data</td><td></td></tr>
+<tr><td><b>Day 1 (Tuesday, Jan 20, 2026)</b></td><td>11am-12:30pm</td><td>Your first steps with Julia</td></tr>
+<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Working with tabular data</td></tr>
 
-<tr><td><b>Day 2 (Wednesday, Jan 21, 2026)</b></td><td>11am-12:30pm</td><td>Classical predictive models</td><td></td></tr>
-<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Advanced predictive models using machine learning</td><td></td></tr>
+<tr><td><b>Day 2 (Wednesday, Jan 21, 2026)</b></td><td>11am-12:30pm</td><td>Classical predictive models</td></tr>
+<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Advanced predictive models using machine learning</td></tr>
 
-<tr><td><b>Day 3 (Thursday, Jan 22, 2026)</b></td><td>11am-12:30pm</td><td>Numerical methods</td><td></td></tr>
-<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Solving optimization problems</td><td></td></tr>
+<tr><td><b>Day 3 (Thursday, Jan 22, 2026)</b></td><td>11am-12:30pm</td><td>Numerical methods</td></tr>
+<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Solving optimization problems</td></tr>
 
-<tr><td><b>Day 4 (Friday, Jan 23, 2026)</b></td><td>11am-12:30pm</td><td>Differential equations</td><td></td></tr>
-<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Scaling computations using parallel computing</td><td></td></tr>
+<tr><td><b>Day 4 (Friday, Jan 23, 2026)</b></td><td>11am-12:30pm</td><td>Differential equations</td></tr>
+<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Scaling computations using parallel computing</td></tr>
 </table>
 
 
