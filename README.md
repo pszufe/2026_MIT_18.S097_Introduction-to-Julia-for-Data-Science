@@ -39,17 +39,17 @@ notebook(dir=".")
 ### TODO remove old youtube links
 
 <table>
-<tr><td><b>Day 1 (Tuesday, Jan 20, 2026)</b></td><td>11am-12:30pm</td><td>Your first steps with Julia</td><td>https://youtu.be/LKXoL3-RgAA</td></tr>
-<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Working with tabular data</td><td>https://youtu.be/J8j1FUFMxpQ</td></tr>
+<tr><td><b>Day 1 (Tuesday, Jan 20, 2026)</b></td><td>11am-12:30pm</td><td>Your first steps with Julia</td><td></td></tr>
+<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Working with tabular data</td><td></td></tr>
 
-<tr><td><b>Day 2 (Wednesday, Jan 21, 2026)</b></td><td>11am-12:30pm</td><td>Classical predictive models</td><td>https://youtu.be/l6EABeDO6gE</td></tr>
-<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Advanced predictive models using machine learning</td><td>https://youtu.be/6o_e65_0JY0</td></tr>
+<tr><td><b>Day 2 (Wednesday, Jan 21, 2026)</b></td><td>11am-12:30pm</td><td>Classical predictive models</td><td></td></tr>
+<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Advanced predictive models using machine learning</td><td></td></tr>
 
-<tr><td><b>Day 3 (Thursday, Jan 22, 2026)</b></td><td>11am-12:30pm</td><td>Numerical methods</td><td>https://youtu.be/z85xnl7CfSA</td></tr>
-<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Solving optimization problems</td><td>https://youtu.be/2PzuwDUIV3A</td></tr>
+<tr><td><b>Day 3 (Thursday, Jan 22, 2026)</b></td><td>11am-12:30pm</td><td>Numerical methods</td><td></td></tr>
+<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Solving optimization problems</td><td></td></tr>
 
-<tr><td><b>Day 4 (Friday, Jan 23, 2026)</b></td><td>11am-12:30pm</td><td>Differential equations</td><td>https://youtu.be/4Q6RhKbpaiI</td></tr>
-<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Scaling computations using parallel computing</td><td>https://youtu.be/XtMZmSz5yMk</td></tr>
+<tr><td><b>Day 4 (Friday, Jan 23, 2026)</b></td><td>11am-12:30pm</td><td>Differential equations</td><td></td></tr>
+<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Scaling computations using parallel computing</td><td></td></tr>
 </table>
 
 
