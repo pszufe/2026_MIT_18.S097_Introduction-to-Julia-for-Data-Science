@@ -2,7 +2,7 @@
 
 julia_version = "1.12.3"
 manifest_format = "2.0"
-project_hash = "2d1bbd18a54bc4b9a68e40e2a230c2be466a35a7"
+project_hash = "eedff13e9dd664f72dbab7260e07a3ae8974a7fe"
 
 [[deps.ABCDGraphGenerator]]
 deps = ["ArgParse", "NearestNeighbors", "Pkg", "Random", "StatsBase"]
@@ -219,11 +219,6 @@ deps = ["Dates", "IntervalSets", "IterTools", "RangeArrays"]
 git-tree-sha1 = "4126b08903b777c88edf1754288144a0492c05ad"
 uuid = "39de3d68-74b9-583c-8d2d-e117c070f3a9"
 version = "0.4.8"
-
-[[deps.BSON]]
-git-tree-sha1 = "4c3e506685c527ac6a54ccc0c8c76fd6f91b42fb"
-uuid = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
-version = "0.3.9"
 
 [[deps.BandedMatrices]]
 deps = ["ArrayLayouts", "FillArrays", "LinearAlgebra", "PrecompileTools"]
@@ -2407,13 +2402,6 @@ git-tree-sha1 = "511b6fa8b9e95e22628651aaacee84ad1860eea7"
 uuid = "86cd37e6-c0ff-550b-95fe-21d72c8d4fc9"
 version = "0.4.2"
 
-[[deps.OpenStreetMapXPlot]]
-deps = ["OpenStreetMapX", "Plots", "Random"]
-git-tree-sha1 = "cbfd2a5cb0b121ce097f199f6d119c2ce983da5b"
-uuid = "d3d4fdd0-c191-11e8-3358-a3629b56487d"
-version = "0.2.0"
-weakdeps = ["PythonPlot"]
-
 [[deps.Optim]]
 deps = ["Compat", "EnumX", "FillArrays", "ForwardDiff", "LineSearches", "LinearAlgebra", "NLSolversBase", "NaNMath", "PositiveFactorizations", "Printf", "SparseArrays", "StatsBase"]
 git-tree-sha1 = "48968edaf014f67e58fe4c8a4ce72d392aed3294"
@@ -3634,12 +3622,6 @@ version = "0.4.85"
     LazyArrays = "5078a376-72f3-5289-bfd5-ec5146d43c02"
     OnlineStatsBase = "925886fa-5bf2-5e8e-b522-a9147a512338"
     Referenceables = "42d2dcc6-99eb-4e98-b66c-637b7d73030e"
-
-[[deps.TravelingSalesmanHeuristics]]
-deps = ["LinearAlgebra", "Random"]
-git-tree-sha1 = "723b16cbc89f37986f09a374cc35efca3ff89a23"
-uuid = "8c8f4381-2cdd-507c-846c-be2bcff6f45f"
-version = "0.3.4"
 
 [[deps.TriplotBase]]
 git-tree-sha1 = "4d4ed7f294cda19382ff7de4c137d24d16adc89b"

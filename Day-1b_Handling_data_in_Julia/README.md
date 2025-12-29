@@ -17,4 +17,4 @@ Day 1 (Tuesday, Jan 20, 2026, 1pm – 3pm)
 6. Analysis and visualization of mean values taking into account estimation uncertainty.
 
 ### Instructor:
-- Przemysław Szufel
+- Łukasz Kraiński
