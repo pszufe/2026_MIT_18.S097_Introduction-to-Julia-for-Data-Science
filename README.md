@@ -20,33 +20,24 @@ During this short course, you will learn how to build data science models using 
 
 This course does not require the participants to have prior detailed knowledge of advanced machine learning algorithms nor the Julia programming language. What we assume is a basic knowledge of data science tools (like Python or R) and techniques (like linear regression, basic statistics, plotting).
 
-<!--
 **Installation instructions**
-Installation instructions can be found in [materials for the day 1](Day-1a_Quick-introduction-to-Julia/)
 
-Once installed the code can be run as
-```
-using Pkg
-Pkg.activate(".") # assumes running the code in the main folder of this repository
-using IJulia
-notebook(dir=".")
-```
--->
+Installation instructions can be found in [materials for the day 1](Day-1a_Quick-introduction-to-Julia/README.md)
 
 **Schedule** (all times are EST time zone)
 
 <table>
 <tr><td><b>Day 1 (Tuesday, Jan 20, 2026)</b></td><td>11am-12:30pm</td><td>Quick introduction to Julia</td></tr>
-<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Handling data in Julia</td></tr>
+<tr><td>&nbsp;</td><td>1pm-2:30pm</td><td>Handling data in Julia</td></tr>
 
 <tr><td><b>Day 2 (Wednesday, Jan 21, 2026)</b></td><td>11am-12:30pm</td><td>Numerical methods</td></tr>
-<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Optimization models</td></tr>
+<tr><td>&nbsp;</td><td>1pm-2:30pm</td><td>Differential equations</td></tr>
 
-<tr><td><b>Day 3 (Thursday, Jan 22, 2026)</b></td><td>11am-12:30pm</td><td>Differential equations</td></tr>
-<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Mininig complex networks introduction</td></tr>
+<tr><td><b>Day 3 (Thursday, Jan 22, 2026)</b></td><td>11am-12:30pm</td><td>Optimization models</td></tr>
+<tr><td>&nbsp;</td><td>1pm-2:30pm</td><td>Mininig complex networks introduction</td></tr>
 
 <tr><td><b>Day 4 (Friday, Jan 23, 2026)</b></td><td>11am-12:30pm</td><td>Mininig complex networks advanced topics</td></tr>
-<tr><td>&nbsp;</td><td>1pm-3pm</td><td>Parallel and distributed computing</td></tr>
+<tr><td>&nbsp;</td><td>1pm-2:30pm</td><td>Parallel and distributed computing</td></tr>
 </table>
 
 

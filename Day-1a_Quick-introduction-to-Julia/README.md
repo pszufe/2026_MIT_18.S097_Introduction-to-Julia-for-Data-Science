@@ -12,7 +12,7 @@ Julia is a new Open Source language designed for science and data analysis. With
 
 **Installation instructions**
 
-1. Please follow installation instructions on [Julia download page](https://julialang.org/downloads/). During the workshop we will be using the **v1.12.3** version.
+1. Please follow installation instructions on [Julia download page](https://julialang.org/downloads/). During the workshop we will be using the **v1.12.4** version.
 
 2. Install Julia packages that will be used throughout the workshop. Once Julia is installed please follow the steps:
 

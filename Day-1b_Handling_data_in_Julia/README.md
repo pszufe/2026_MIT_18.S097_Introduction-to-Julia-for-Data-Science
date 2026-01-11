@@ -1,6 +1,6 @@
 # Introduction to Julia for Data Science
 ## Handling data in Julia
-Day 1 (Tuesday, Jan 20, 2026, 1pm – 3pm)
+Day 1 (Tuesday, Jan 20, 2026, 1pm – 2:30pm)
 
 ### Teaching objectives:
 - Student will understand how to work with tabular data in Julia.
