@@ -1,6 +1,6 @@
 
-# MIT_18.S097 Special Subject in Mathematics: Introduction to Julia for Data Science
-MIT_18.S097
+# MIT_18.S096 Special Subject in Mathematics: Introduction to Julia for Data Science
+MIT_18.S096
 
 **Dates:** Jan 20-23, 2026
 
@@ -8,7 +8,7 @@ MIT_18.S097
 
 **Location**: Massachusetts Institute of Technology, Cambridge, Massachusetts, USA
 
-**Room:** This class will meet in *TBA*. See http://whereis.mit.edu/?mapterms=2-132 for location.
+**Room:** This class will meet in *2-142*. See http://whereis.mit.edu/?mapterms=2-142 for location.
 
 
 
