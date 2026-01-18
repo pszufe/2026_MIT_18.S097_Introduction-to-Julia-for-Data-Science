@@ -1,0 +1,7 @@
+
+[pip.deps]
+partition-igraph = "==0.0.7"
+fastnode2vec = "==0.0.7"
+[deps]
+python-igraph = "==1.0.0"
+python = "==3.10.19"
