@@ -4,7 +4,7 @@ MIT_18.S096
 
 **Dates:** Jan 20-23, 2026
 
-**Time:** TWRF 11am-12:30pm; 1pm-2:30pm
+**Time:** 11am-12:30pm; 1pm-2:30pm
 
 **Location**: Massachusetts Institute of Technology, Cambridge, Massachusetts, USA
 
@@ -33,11 +33,11 @@ Installation instructions can be found in [materials for the day 1](Day-1a_Quick
 <tr><td><b>Day 2 (Wednesday, Jan 21, 2026)</b></td><td>11am-12:30pm</td><td>Numerical methods</td></tr>
 <tr><td>&nbsp;</td><td>1pm-2:30pm</td><td>Differential equations</td></tr>
 
-<tr><td><b>Day 3 (Thursday, Jan 22, 2026)</b></td><td>11am-12:30pm</td><td>Optimization models</td></tr>
+<tr><td><b>Day 3 (Thursday, Jan 22, 2026)</b></td><td>11am-12:30pm</td><td>Parallel and distributed computing</td></tr>
 <tr><td>&nbsp;</td><td>1pm-2:30pm</td><td>Mininig complex networks introduction</td></tr>
 
 <tr><td><b>Day 4 (Friday, Jan 23, 2026)</b></td><td>11am-12:30pm</td><td>Mininig complex networks advanced topics</td></tr>
-<tr><td>&nbsp;</td><td>1pm-2:30pm</td><td>Parallel and distributed computing</td></tr>
+<tr><td>&nbsp;</td><td>1pm-2:30pm</td><td>Optimization models</td></tr>
 </table>
 
 **Live stream links**

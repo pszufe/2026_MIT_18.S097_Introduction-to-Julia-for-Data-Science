@@ -1,6 +1,6 @@
 # Introduction to Julia for Data Science
 ## Optimization models
-Day 3 (Wednesday, Jan 22, 2026, 11am – 12:30pm)
+Day 4 (Friday, Jan 23, 2026, 1pm – 2:30pm)
 
 
 ### Instructor:
