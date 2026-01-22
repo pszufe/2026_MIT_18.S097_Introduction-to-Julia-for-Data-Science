@@ -178,7 +178,7 @@ version = "4.1.1"
 
 [[deps.Dagger]]
 deps = ["Adapt", "DataStructures", "Distributed", "DistributedNext", "FillArrays", "Graphs", "KernelAbstractions", "LinearAlgebra", "MacroTools", "MemPool", "OnlineStats", "PrecompileTools", "Preferences", "Profile", "Random", "Requires", "ScopedValues", "Serialization", "SharedArrays", "SparseArrays", "Statistics", "StatsBase", "TaskLocalValues", "TimespanLogging", "UUIDs"]
-git-tree-sha1 = "49efa4eef1d5c25217dc98a6466eaacc88585869"
+git-tree-sha1 = "2c55628cc087bdddda18255760580ee80934b8da"
 repo-rev = "jps/enhanced-gantt"
 repo-url = "https://github.com/JuliaParallel/Dagger.jl.git"
 uuid = "d58978e5-989f-55fb-8d15-ea34adc7bf54"
